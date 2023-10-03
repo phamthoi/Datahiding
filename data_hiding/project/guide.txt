@@ -1,0 +1,9 @@
+bước 1: chọn vào mục file -> open để mở ảnh mà bạn cần hide vào
+bước 2: bạn có thể nhấp vào mục file để mở một file txt hoặc bạn có thể ghi trực tiếp vào ô bên dưới
+bước 3: bạn có thể kích vào encripted và nhập mật khẩu mà bạn muốn tạo hoặc không
+nếu kích vào encripted ảnh sẽ kết hợp với AES và tạo ra một mật mã chắc chắn hơn
+còn không chúng chỉ ẩn vào ảnh thôi
+bước 3: kích vào hide để ẩn text 
+bước 4: nhấp vào mục file -> save để lưu ảnh bạn vừa hide
+bước 5: tương tự bước 1 bạn nhấp vào file -> open để mở ảnh mà bạn vừa hide và lưu vào 
+bước 6: nhấp vào encripted nhập mật khẩu và load để biết thông tin

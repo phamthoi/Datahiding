@@ -1,0 +1,14 @@
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\bin\Debug\steganography.exe.config
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\bin\Debug\steganography.exe
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\bin\Debug\steganography.pdb
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.csproj.AssemblyReference.cache
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.csproj.SuggestedBindingRedirects.cache
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.Form1.resources
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.Properties.Resources.resources
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.csproj.GenerateResource.cache
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.csproj.CoreCompileInputs.cache
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.exe
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.pdb
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.game.resources
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.Form_chinh.resources
+E:\nam3\crypto\datahidingC#\data_hiding\steganography\steganography\obj\Debug\steganography.Guide.resources
